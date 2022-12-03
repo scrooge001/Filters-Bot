@@ -86,7 +86,7 @@ async def who_is(client, message):
             ).strftime("%Y.%m.%d %H:%M:%S")
             message_out_str += (
                 "★ Joined this Chat on: "
-                f"{joined_date}\n"
+                f"<code>{joined_date}</code>\n"
             )
         except UserNotParticipant:
             pass
