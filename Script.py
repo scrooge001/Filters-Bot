@@ -13,7 +13,7 @@ class script(object):
 
     ABOUT_TXT = """★ My Name: <a href=https://t.me/{}>{}</a>
 ★ Creator: <a href=https://t.me/Hansaka_Anuhas>Hansaka Anuhas</a> 🇱🇰
-★ Bot Server: <a href=https://www.koyeb.com>Koyeb</a>
+★ Bot Server: <a href=https://www.linode.com>VPS</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>"""
 
     MANUALFILTERS_TXT = """• /filter or /add - Add Filter
